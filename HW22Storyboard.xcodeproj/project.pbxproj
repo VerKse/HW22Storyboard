@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44335163258F6FA300DDDFD5 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44335162258F6FA300DDDFD5 /* WelcomeViewController.swift */; };
 		4469C315257CC16A004550EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4469C314257CC16A004550EE /* AppDelegate.swift */; };
 		4469C317257CC16A004550EE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4469C316257CC16A004550EE /* SceneDelegate.swift */; };
 		4469C319257CC16A004550EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4469C318257CC16A004550EE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44335162258F6FA300DDDFD5 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		4469C311257CC16A004550EE /* HW22Storyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW22Storyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4469C314257CC16A004550EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4469C316257CC16A004550EE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				4469C314257CC16A004550EE /* AppDelegate.swift */,
 				4469C316257CC16A004550EE /* SceneDelegate.swift */,
 				4469C318257CC16A004550EE /* ViewController.swift */,
+				44335162258F6FA300DDDFD5 /* WelcomeViewController.swift */,
 				4469C31A257CC16A004550EE /* Main.storyboard */,
 				4469C31D257CC16B004550EE /* Assets.xcassets */,
 				4469C31F257CC16B004550EE /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4469C319257CC16A004550EE /* ViewController.swift in Sources */,
+				44335163258F6FA300DDDFD5 /* WelcomeViewController.swift in Sources */,
 				4469C315257CC16A004550EE /* AppDelegate.swift in Sources */,
 				4469C317257CC16A004550EE /* SceneDelegate.swift in Sources */,
 			);
